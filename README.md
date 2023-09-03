@@ -6,7 +6,6 @@
 - iOS, Chrome, Safari
 
 ### Details
-- 🔭 I’m currently working on Diffense
 - 🤔 I’m looking for someone to study with me
 - 😄 I like geeks
 
